@@ -21,10 +21,12 @@ UCONN was the most common winner for the Men's tournament and South Carolina was
 # Most Common simulated winners 
 
 Mens:
+
 ![alt text](https://github.com/stevturn3/2024_march_madness/blob/main/mens.png)
 
 
 Womens:
+
 ![alt text](https://github.com/stevturn3/2024_march_madness/blob/main/womans.png)
 
 
